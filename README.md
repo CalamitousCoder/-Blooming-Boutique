@@ -51,4 +51,13 @@ For each customer:
 End of Game:
 Provides closing remarks based on the total points earned during the game.
 Grades the player's performance based on the points earned.
+## Lessons Learned:
+
+Inheritance is rad
+ This was my first time playing with sub classes. I made a lot mistakes in earlier impliementation and had to rewrite a good amount of code midway through. The end result was so much simpler than how I
+ would have usually written a program like this. 
+
+ Arraylists
+  I have never made an Arraylist that was an attribute of class that wasn't in main. Very useful to know. I can now create objects that automatically add themselves to an arrayList. In my past project    
+  dealing with arcade management I individually added every single object to arrays. With this knew information I can great down a ton on fluff inefficeient code.
 
