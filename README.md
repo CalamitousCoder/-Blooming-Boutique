@@ -1,6 +1,8 @@
 # Blooming-Boutique
 Help customers using your knowledge of flower language. This game is still in its very early stages.
 
+## Future goals
+I'd really like a proper UI to reduce a lot of the clunkliness of the player's interactions. I'd also eventually like basic graphics to make it feel more like a game. Later down the line I'd like to flesh out the game's mechanics by prompts that combine flower's rather than having prompts that only call for one flower.
 
 ## How It's Made:
 
